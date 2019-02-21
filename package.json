@@ -1,0 +1,25 @@
+{
+  "name": "my-parcel-bundler",
+  "version": "1.0.0",
+  "description": "My Bundler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amare16/Parcel-Bundler.git"
+  },
+  "keywords": [
+    "Bundler"
+  ],
+  "author": "Amare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amare16/Parcel-Bundler/issues"
+  },
+  "homepage": "https://github.com/amare16/Parcel-Bundler#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
+}
